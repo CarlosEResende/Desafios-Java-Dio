@@ -7,7 +7,7 @@ public class ContaTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Insira o número da Conta:");
+        System.out.println("Insira o número daConta:");
         int numeroConta = scanner.nextInt();
 
         System.out.println("Insira o número da Agência:");
